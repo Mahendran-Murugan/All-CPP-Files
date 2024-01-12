@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.cpp": "cpp",
+    "limits": "cpp",
+    "valarray": "cpp",
+    "algorithm": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "bitset": "cpp"
+  }
+}
