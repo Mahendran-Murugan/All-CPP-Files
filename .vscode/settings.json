@@ -12,5 +12,6 @@
     "vector": "cpp",
     "bitset": "cpp",
     "map": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
