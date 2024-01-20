@@ -11,7 +11,19 @@
     "string": "cpp",
     "vector": "cpp",
     "bitset": "cpp",
-    "map": "cpp"
+    "map": "cpp",
+    "__hash_table": "cpp",
+    "__tree": "cpp",
+    "array": "cpp",
+    "initializer_list": "cpp",
+    "queue": "cpp",
+    "regex": "cpp",
+    "set": "cpp",
+    "span": "cpp",
+    "stack": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
